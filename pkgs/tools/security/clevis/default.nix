@@ -14,7 +14,7 @@ stdenv.mkDerivation rec {
   };
 
   nativeBuildInputs = [ meson ninja pkg-config asciidoc ];
-  buildInputs = [ jansson jose cryptsetup curl libpwquality luksmeta ];
+  buildInputs = [ jansson jose cryptsetup curl libpwquality luksmeta tpm2-tools ];
 
   outputs = [ "out" "man" ];
 
