@@ -46,7 +46,7 @@
     "chromium-pickle-js": "^0.2.0",
     "commander": "^5.0.0",
     "glob": "^7.1.6",
-    "minimatch": "^3.0.4"
+    "minimatch": "^10.2.2"
   },
   "devDependencies": {
     "@continuous-auth/semantic-release-npm": "^3.0.0",
