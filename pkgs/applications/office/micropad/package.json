@@ -28,7 +28,7 @@
     "@types/mime": "^3.0.1",
     "@types/node": "^18.7.18",
     "@types/typo-js": "^1.2.1",
-    "electron": "^27.0.2",
+    "electron": "^41.3.0",
     "electron-builder": "^24.6.4",
     "typescript": "~5.2.2"
   },
